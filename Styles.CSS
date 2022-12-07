@@ -1,0 +1,9 @@
+body{ background-color:#cef1ee; 
+ }
+    hr{
+          border-style: dashed none none;
+          border-color: rgb(41, 33, 47);
+          border-width: 2px;
+        }
+    h2{font-style: italic;
+        color: purple;}
